@@ -1,19 +1,32 @@
 html {
   font-family: verdana;
   background-color: black;
+  text-align: center;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
 }
 
 h3 {
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
-  
 }
 
+h4 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+h5 {
+  text-align: right;
+  color: gray;
+}
